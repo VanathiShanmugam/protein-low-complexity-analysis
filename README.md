@@ -6,12 +6,12 @@
 
 ## Features
 
-✔ Low-complexity region detection
-✔ Disorder propensity estimation
-✔ Repeat-density analysis
-✔ FASTA-based feature extraction
-✔ Batch processing of protein sequences
-✔ CSV-based output generation
+- Low-complexity region detection
+- Disorder propensity estimation
+- Repeat-density analysis
+- FASTA-based feature extraction
+- Batch processing of protein sequences
+- CSV-based output generation
 
 ---
 
